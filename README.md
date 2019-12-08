@@ -1,3 +1,6 @@
+# Challenge:
+Build an application (e.g. a cloud function with a single endpoint) that takes text as an input and returns an image found on unsplash or another image platform.
+
 Solution to Day 7 of the #25DaysOfServerless. This solution uses GCP Cloud Run.
 Build the image in the cloud shell using the files from this repo
 ```
