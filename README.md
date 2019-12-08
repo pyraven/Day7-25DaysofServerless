@@ -14,7 +14,6 @@ Push it to GCR
 ```
 docker push gcr.io/loadbalancescanning/day-seven
 ```
-Create cloud run service
 After setting up an account and application with Unsplash, you'll create a new service under Cloud Run. I created a new service using the image just created and gave it (the service) a name, set environment variable (name = KEY, value = access key from unsplash API) with unauthenticated invokes (i'm sorry you had to see this my security fam)
 
 Preview:
